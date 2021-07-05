@@ -89,3 +89,5 @@ for s in range(int(y)):
     for m in range(int(y-s)):
         print("*", end=" ")
     print()
+
+print("Hi")
