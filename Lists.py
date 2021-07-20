@@ -26,16 +26,39 @@
 # # print(s[0])
 # for n in range(len(s)):
 #     print(s[n])
-l=[50,120,100,60,70]
-k=[55,125,105,5,23]
+# l=[50,120,100,60,70]
+# k=[55,125,105,5,23]
+#
+# s=0
+# for n in range(len(l)):
+#     s=(l[n]+s)
+# print(s)
+#
+# # Find the smallest number in the list
+# #Take a list and reverse it (l=[70,60,100,120,50])
+# #Take a list and look for duplicates in the list, and print the duplicates
+#
+# # print(l+k)
+# l=[202,120,100,60,70]
+# x=l[0]
+# for n in range(len(l)):
+#     if(x>l[n]):
+#         x=l[n]
+# print(x)
 
-s=0
-for n in range(len(l)):
-    s=(l[n]+s)
-print(s)
+a="hello"
+b="bye"
+c=a
 
-#Find the smallest number in the list
-#Take a list and reverse it (l=[70,60,100,120,50])
-#Take a list and look for duplicates in the list, and print the duplicates
+a=b
+b=c
 
-# print(l+k)
+
+
+
+print(a)
+print(b)
+
+
+
+
